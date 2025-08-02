@@ -70,19 +70,3 @@ body {
   position: relative;
   z-index: 0;
 }
-
-body {
-  margin: 0;
-  padding: 0;
-  background: url('Fondo.png') no-repeat center center fixed;
-  background-size: cover;
-  position: relative;
-}
-
-.fondo-blur {
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  background-color: rgba(0, 0, 0, 0.4); /* oscurecimiento */
-  min-height: 100vh;
-  padding: 0;
-}
