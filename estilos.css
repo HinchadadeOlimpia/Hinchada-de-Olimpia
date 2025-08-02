@@ -3,7 +3,7 @@
 body {
   margin: 0;
   font-family: 'Roboto', sans-serif;
-  background: url('https://i.imgur.com/CUtETKY.jpg') no-repeat center center fixed;
+  background: url('Fondo.png') no-repeat center center fixed;
   background-size: cover;
   color: #fff;
   backdrop-filter: blur(6px);
