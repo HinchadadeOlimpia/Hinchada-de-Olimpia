@@ -58,11 +58,10 @@ main {
 }
 
 footer {
+  background: rgba(0, 0, 0, 0.6); /* negro con opacidad */
+  padding: 1rem;
   text-align: center;
-  padding: 15px;
-  background-color: rgba(0, 0, 0, 0.9);
-  color: #aaa;
+  color: white;
   font-size: 0.9rem;
-  margin-top: 40px;
-  box-shadow: 0 -4px 8px rgba(255, 255, 255, 0.05);
+  font-family: 'Arial', sans-serif;
 }
